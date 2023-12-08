@@ -2,4 +2,4 @@ streamlit
 pickle
 numpy
 Image
-sklearn
+scikit-learn
