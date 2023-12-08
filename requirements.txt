@@ -1,5 +1,1 @@
-streamlit
-pickle
-numpy
-Image
 scikit-learn
